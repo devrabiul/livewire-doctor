@@ -1,0 +1,39 @@
+{
+    "name": "devrabiul/livewire-doctor",
+    "type": "library",
+    "description": "Automatically detect and fix common Livewire issues, with helpful commands and developer tools to streamline your Laravel development.",
+    "keywords": [
+        "laravel",
+        "livewire",
+        "livewire doctor",
+        "livewire fixer",
+        "debug livewire",
+        "laravel livewire tools",
+        "livewire health check",
+        "livewire helper"
+    ],
+    "homepage": "https://github.com/devrabiul/livewire-doctor",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Muhammad Rabiul",
+            "email": "devrabiul@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Devrabiul\\LivewireDoctor\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel" :{
+            "providers" : [
+                "Devrabiul\\LivewireDoctor\\LivewireDoctorServiceProvider"
+            ],
+            "aliases": {
+                "LivewireDoctor": "Devrabiul\\LivewireDoctor\\Facades\\LivewireDoctor"
+            }
+        }
+    },
+    "require": {}
+}
