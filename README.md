@@ -127,7 +127,7 @@ What it checks:
 
 ## 🤝 Contributing
 
-We welcome contributions to ToastMagic! If you would like to contribute, please fork the repository and submit a pull request. For any issues or feature requests, please open an issue on GitHub.
+We welcome contributions to LivewireDoctor! If you would like to contribute, please fork the repository and submit a pull request. For any issues or feature requests, please open an issue on GitHub.
 
 ---
 
