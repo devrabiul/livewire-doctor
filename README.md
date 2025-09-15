@@ -4,25 +4,18 @@ A powerful Laravel package that **automatically diagnoses, fixes**, and improves
 
 [![Latest Stable Version](https://poser.pugx.org/devrabiul/livewire-doctor/v/stable)](https://packagist.org/packages/devrabiul/livewire-doctor)
 [![Total Downloads](https://poser.pugx.org/devrabiul/livewire-doctor/downloads)](https://packagist.org/packages/devrabiul/livewire-doctor)
+[![Monthly Downloads](https://poser.pugx.org/devrabiul/livewire-doctor/d/monthly)](https://packagist.org/packages/devrabiul/livewire-doctor)
 ![GitHub license](https://img.shields.io/github/license/devrabiul/livewire-doctor)
+[![Buy us a tree](https://img.shields.io/badge/Treeware-%F0%9F%8C%B3-lightgreen)](https://plant.treeware.earth/devrabiul/livewire-doctor)
 ![GitHub Repo stars](https://img.shields.io/github/stars/devrabiul/livewire-doctor?style=social)
 
 ---
 
-## 📚 Table of Contents
+## 🚀 Live Demo
 
-* [Overview](#overview)
-* [Features](#features)
-* [Installation](#installation)
-* [Usage](#usage)
+👉 [Try the Live Demo](https://packages.rixetbd.com/devrabiul/livewire-doctor)
 
-  * [Run Health Checks](#run-health-checks)
-  * [Auto-Fix Issues](#auto-fix-issues)
-  * [Developer Helpers](#developer-helpers)
-* [Commands](#commands)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
+![Live Demo Thumbnail](https://packages.rixetbd.com/storage/app/public/package/devrabiul/livewire-doctor.webp)
 
 ---
 
