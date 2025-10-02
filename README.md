@@ -113,7 +113,7 @@ What it checks:
 ## 🌍 Useful Links
 
 * 🔗 **GitHub:** [Livewire Doctor Repository](https://github.com/devrabiul/livewire-doctor)
-* 🔗 **Website:** [livewire-doctor.rixetbd.com](https://livewire-doctor.rixetbd.com)
+* 🔗 **Website:** [https://packages.rixetbd.com/devrabiul/livewire-doctor](https://packages.rixetbd.com/devrabiul/livewire-doctor)
 * 🔗 **Packagist:** [https://packagist.org/packages/devrabiul/livewire-doctor](https://packagist.org/packages/devrabiul/livewire-doctor)
 
 ---
